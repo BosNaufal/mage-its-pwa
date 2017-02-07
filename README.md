@@ -2,6 +2,8 @@
 
 Kali ini kita akan belajar PWA menggunakan [Jquery](http://jquery.com/). Mengapa menggunakan Jquery? Karena Jquery ini hampir sudah dikenal oleh semua kalangan web developer. Baik pemula maupun sudah mahir. Selain itu, tujuannya adalah supaya kita lebih fokus untuk membahas PWA (Progressive Web App) nya daripada ribet ngurusi kesulitan saat pakai *Advance Framework*. Repo ini ditujukan untuk para pemula yang hanya paham Jquery saja ataupun belum.
 
+### [DEMO](https://bosnaufal.github.io/mage-its-pwa)
+
 Untuk temen-temen yang mau belajar dasar-dasar [Jquery](http://jquery.com/), monggo main-main ke [google](https://google.com) atau langsung kunjungi link-link ini:
 - [W3Schools](http://www.w3schools.com/jquery/default.asp)
 - [http://www.duniailkom.com/tutorial-belajar-jquery-bagi-pemula/](http://www.duniailkom.com/tutorial-belajar-jquery-bagi-pemula/)
